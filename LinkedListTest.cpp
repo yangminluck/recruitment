@@ -72,6 +72,8 @@ int main()
                 link.WriteFile(head);
             }
         }
+        else if(order == "display")
+            link.Print(head);
         else if(order == "!help")
             link.ShowHelp();
         else if(order == "!quit")
