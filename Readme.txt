@@ -8,3 +8,5 @@ Apply for software development intern position at Ericssion
 --help message would be displayed when you input "!help" or encouter invalid command
 --A file named "data.txt" persists the data in the file system.
 --Address book automatically read file data into linked list when it starting.
+
+The main function is in the LinkedLIstTest.cpp
