@@ -236,4 +236,5 @@ void LinkedClass::ShowHelp()
     cout<<"#add  this order is used to add relevent information"<<endl;
     cout<<"#search  this order is used to search relevent information"<<endl;
     cout<<"#delete  this order is used to delete relevent information"<<endl;
+    cout<<"#dispaly  this order is used to display relevent information"<<endl;
 }
